@@ -147,3 +147,7 @@ npm run dev
 The app should now be running at [http://localhost:3000](http://localhost:3000) 🚀
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+Created By deeptesh rout and co-patner
+You can make contribute if you want 
