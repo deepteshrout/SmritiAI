@@ -2,41 +2,6 @@
 
 Smriti AI is an intelligent, all-in-one learning assistant that helps you **organize**, **understand**, and **retain** everything you study 🧠. Whether you're a student, a self-learner, or a professional, Smriti AI transforms passive content into active learning tools.
 
-**📊 Project Insights**
-
-<table align="center">
-    <thead align="center">
-        <tr>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Closed PRs</b></td>
-            <td><b>🛠️ Languages</b></td>
-            <td><b>👥 Contributors</b></td>
-        </tr>
-     </thead>
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/vatsal-bhakodia/smriti-ai?style=flat&logo=github"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/vatsal-bhakodia/smriti-ai?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/vatsal-bhakodia/smriti-ai?style=flat&logo=github"/></td>
-            <td><img alt="Open PRs" src="https://img.shields.io/github/issues-pr/vatsal-bhakodia/smriti-ai?style=flat&logo=github"/></td>
-            <td><img alt="Closed PRs" src="https://img.shields.io/github/issues-pr-closed/vatsal-bhakodia/smriti-ai?style=flat&color=critical&logo=github"/></td>
-            <td><img alt="Languages Count" src="https://img.shields.io/github/languages/count/vatsal-bhakodia/smriti-ai?style=flat&color=green&logo=github"></td>
-            <td><img alt="Contributors Count" src="https://img.shields.io/github/contributors/vatsal-bhakodia/smriti-ai?style=flat&color=blue&logo=github"/></td>
-        </tr>
-    </tbody>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+smriti-ai!+🙌;Start+the+repo+✅;Share+it+with+others+🌍;Contribute+and+grow+🛠️;Happy+Coding+✨!" alt="Thanks Banner Typing SVG" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
-
 ## 🛠️ Tech Stack
 
 - 🧩 **Frontend**: Next.js, TypeScript, Tailwind CSS
@@ -278,66 +243,3 @@ Feel free to open issues or discussions if you have any feedback, feature sugges
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-**📄 License**
-
-This project is licensed under the MIT License - see the [`License`](https://github.com/vatsal-bhakodia/smriti-ai/blob/main/LICENSE) file for details.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-**⭐ Stargazers**
-
-<div align="center">
-  <a href="https://github.com/vatsal-bhakodia/smriti-ai/stargazers">
-    <img src="https://reporoster.com/stars/vatsal-bhakodia/smriti-ai?type=svg&limit=100&names=false" alt="Stargazers" />
-  </a>
-</div>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-**🍴 Forkers**
-
-<div align="center">
-  <a href="https://github.com/vatsal-bhakodia/smriti-ai/network/members">
-    <img src="https://reporoster.com/forks/vatsal-bhakodia/smriti-ai?type=svg&limit=100&names=false" alt="Forkers" />
-  </a>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2>Project Admin:</h2>
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/vatsal-bhakodia"><img src="https://avatars.githubusercontent.com/u/123301652?v=4" height="140px" width="140px" alt="Vatsal Bhakodia"></a><br><sub><b>Vatsal Bhakodia</b><br><a href="https://www.linkedin.com/in/vatsal-bhakodia/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
-</td>
-</tr>
-</table>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-**👨‍🏫 Mentors – smriti-ai (GSSoC'25)**
-
-| Name          | GitHub Profile                                | LinkedIn Profile                                                      |
-| ------------- | --------------------------------------------- | --------------------------------------------------------------------- |
-| Sanjana Gurav | [213sanjana](https://github.com/213sanjana)   | [sanjana-gurav](https://www.linkedin.com/in/sanjana-gurav-59357028a/) |
-| Bhavik Dodda  | [BhavikDodda](https://github.com/BhavikDodda) | [bhavik-dodda](https://www.linkedin.com/in/bhavik-dodda/)             |
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Give us a Star and let's make magic! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h1>
-
-<p align="center">
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="150" height="150" />
-</p>
-
-**👨‍💻 Developed By**
-**❤️Vatsal Bhakodia and Contributors❤️** [Watch Demo](https://www.smriti.live/) • [Request Feature](https://github.com/vatsal-bhakodia/smriti-ai/issues)
-
-<div align="center">
-    <a href="#top">
-        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
-    </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-#   S m r i t i A I  
- 
